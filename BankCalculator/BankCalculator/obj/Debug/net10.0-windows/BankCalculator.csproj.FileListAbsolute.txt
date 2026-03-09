@@ -1,0 +1,16 @@
+C:\Users\mrsli\source\repos\BankCalculator\BankCalculator\obj\Debug\net10.0-windows\BankCalculator.Form1.resources
+C:\Users\mrsli\source\repos\BankCalculator\BankCalculator\obj\Debug\net10.0-windows\BankCalculator.csproj.GenerateResource.cache
+C:\Users\mrsli\source\repos\BankCalculator\BankCalculator\obj\Debug\net10.0-windows\BankCalculator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mrsli\source\repos\BankCalculator\BankCalculator\obj\Debug\net10.0-windows\BankCalculator.AssemblyInfoInputs.cache
+C:\Users\mrsli\source\repos\BankCalculator\BankCalculator\obj\Debug\net10.0-windows\BankCalculator.AssemblyInfo.cs
+C:\Users\mrsli\source\repos\BankCalculator\BankCalculator\obj\Debug\net10.0-windows\BankCalculator.csproj.CoreCompileInputs.cache
+C:\Users\mrsli\source\repos\BankCalculator\BankCalculator\bin\Debug\net10.0-windows\BankCalculator.exe
+C:\Users\mrsli\source\repos\BankCalculator\BankCalculator\bin\Debug\net10.0-windows\BankCalculator.deps.json
+C:\Users\mrsli\source\repos\BankCalculator\BankCalculator\bin\Debug\net10.0-windows\BankCalculator.runtimeconfig.json
+C:\Users\mrsli\source\repos\BankCalculator\BankCalculator\bin\Debug\net10.0-windows\BankCalculator.dll
+C:\Users\mrsli\source\repos\BankCalculator\BankCalculator\bin\Debug\net10.0-windows\BankCalculator.pdb
+C:\Users\mrsli\source\repos\BankCalculator\BankCalculator\obj\Debug\net10.0-windows\BankCalculator.dll
+C:\Users\mrsli\source\repos\BankCalculator\BankCalculator\obj\Debug\net10.0-windows\refint\BankCalculator.dll
+C:\Users\mrsli\source\repos\BankCalculator\BankCalculator\obj\Debug\net10.0-windows\BankCalculator.pdb
+C:\Users\mrsli\source\repos\BankCalculator\BankCalculator\obj\Debug\net10.0-windows\BankCalculator.genruntimeconfig.cache
+C:\Users\mrsli\source\repos\BankCalculator\BankCalculator\obj\Debug\net10.0-windows\ref\BankCalculator.dll
